@@ -6,7 +6,7 @@
 with [fisherman]
 
 ```
-fisher eliasmeire/fish-simple
+fisher eliasmeire/hub-fish-completions
 ```
 
 ## Credit
